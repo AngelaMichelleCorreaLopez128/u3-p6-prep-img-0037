@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+vacas,vaca1.jpg,OK,612,420,224,224,0.0,1.0,APROBADA
+vacas,vaca2.jpg,OK,2014,3039,224,224,0.0,0.933,APROBADA
+vacas,vaca3.jpg,OK,612,612,224,224,0.0,1.0,APROBADA
+vacas,vaca4.jpg,OK,683,1024,224,224,0.0,1.0,APROBADA
+vacas,vaca5.jpg,OK,612,408,224,224,0.0,1.0,APROBADA
+toro,toro1.jpg,OK,612,407,224,224,0.012,1.0,APROBADA
+toro,toro2.jpg,OK,1280,853,224,224,0.008,1.0,APROBADA
+toro,toro3.jpg,OK,612,383,224,224,0.0,0.988,APROBADA
+toro,toro4.jpg,OK,540,360,224,224,0.0,0.933,APROBADA
+toro,toro5.jpg,OK,600,400,224,224,0.012,1.0,APROBADA
